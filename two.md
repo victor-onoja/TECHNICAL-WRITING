@@ -3,7 +3,13 @@
 ### PREAMBLE
 
 Welcome to the second part of this tutorial on technical writing. If you're joining for the first time, you can find the first part here.
-In the previous chapter, you learnt what technical writing is, its importance and who a technical writer is. In this chapter you get to learn prerequisites for becoming a technical writer and how to get started on your technical writing journey. Excited? Let's get into it.
+In the previous chapter, you learnt what technical writing is, its importance and who a technical writer is. In this chapter you get to learn the following:
+
+- prerequisites for becoming a technical writer
+- how to get started on your technical writing journey
+- tools needed for technical writing
+
+Excited? Let's get into it.
 
 ### CHAPTER TWO
 
@@ -48,9 +54,11 @@ The essential next step to take, to kickstart your proffesional technical writin
 - what to write
 - how to write it
 
-These two obstacles will be tackled extensively in the following chapters so you'll always know what to write and how to write it. But before then I'll leave you with this; As a technical writer, especially one just starting out, you can easily find topics to write about as long as you keep on learning. I call this teach as you learn.
+These two obstacles will be tackled extensively in following chapters so you'll always know what to write and how to write it. But before then I'll leave you with this; As a technical writer, especially one just starting out, you can easily find topics to write about as long as you keep on learning. I call this teach as you learn.
 After taking this tutorial, ensure you dive right into publishing articles. The knwoledge you gain from this tutorial is enough for you to get started on a technical writing career path.
 The first four, five or maybe more technical articles you write, you will most likely not be paid for writing them. That's okay! These articles will serve as your portfolio. An easy way to get topics to fill up your portfolio quickly and to stand out is to be a techie and to tell the world about it. Teach as you learn. Teach as you build.
+
+As far as tools go, to get started as a technical writer all you need is a computer and some internet connection. You can write articles on your publishing platform directly, or you can write articles in your favourite text editor first then copy it unto your publishing platform.
 
 Improve your writing skills, Hone your research skills, Be unapologetically a techie, Join a publishing platform, Publish your articles to the world. Congratulations! You're now a technical writer. The world is yours.
 
